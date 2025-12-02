@@ -1,6 +1,6 @@
 ### ¡Hola, soy Brian Flores! 👨‍💻
 
-Soy estudiante de **Ingeniería de Software** en la ESPE, enfocado en crear soluciones digitales modernas y funcionales, especializándome en Desarrollo Web y Móvil. Me gusta mucho la innovación y buscar soluciones creativas y personalizadas para cada problema. Me considero un profesional perseverante y con gran capacidad de autoaprendizaje: asumo los retos técnicos con proactividad y me adapto rápidamente a nuevas herramientas
+Soy estudiante de **Ingeniería de Software** en la ESPE, enfocado en crear soluciones digitales modernas y funcionales, especializándome en Desarrollo Web y Móvil. Me gusta mucho la innovación y buscar soluciones creativas y personalizadas para cada problema. Me considero un profesional perseverante y con gran capacidad de autoaprendizaje, asumo los retos técnicos con proactividad y me adapto rápidamente a nuevas herramientas
 
 - 🔭 **Actualmente trabajando en:** [Ayre-Web](https://github.com/BMACF12/Ayre-Web), una plataforma integral para servicios psicológicos,fisioterapia y educativos.
 - 🎓 **Enfoque:** Finalizando mi carrera y buscando oportunidades en el sector educativo y tecnológico.

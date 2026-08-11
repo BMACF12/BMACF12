@@ -82,10 +82,12 @@ Soy **Ingeniero de Software** especializado en la creación de soluciones digita
 ### 📊 Estadísticas de GitHub
 
 <div align="center">
-
-[![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=BMACF12&show_icons=true&theme=tokyonight&hide_border=true&locale=es)](https://github.com/BMACF12)
-[![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=BMACF12&layout=compact&theme=tokyonight&hide_border=true&locale=es)](https://github.com/BMACF12)
-
+  <a href="https://github.com/BMACF12">
+    <img src="https://github-stats-extended.vercel.app/api?username=BMACF12&show_icons=true&theme=tokyonight&hide_border=true&locale=es" height="150" alt="Estadísticas de GitHub" />
+  </a>
+  <a href="https://github.com/BMACF12">
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=BMACF12&layout=compact&theme=tokyonight&hide_border=true&locale=es" height="150" alt="Lenguajes más usados" />
+  </a>
 </div>
 
 ---

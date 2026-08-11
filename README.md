@@ -83,10 +83,10 @@ Soy **Ingeniero de Software** especializado en la creación de soluciones digita
 
 <div align="center">
   <a href="https://github.com/BMACF12">
-    <img src="https://github-readme-stats.vercel.app/api?username=BMACF12&show_icons=true&theme=tokyonight&hide_border=true&locale=es&v=1" height="150" alt="Estadísticas de GitHub" />
+    <img src="https://github-readme-stats.vercel.app/api?username=BMACF12&show_icons=true&theme=tokyonight&hide_border=true&locale=es" height="150" alt="Estadísticas de GitHub" />
   </a>
   <a href="https://github.com/BMACF12">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BMACF12&layout=compact&theme=tokyonight&hide_border=true&locale=es&v=1" height="150" alt="Lenguajes más usados" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BMACF12&layout=compact&theme=tokyonight&hide_border=true&locale=es" height="150" alt="Lenguajes más usados" />
   </a>
 </div>
 
@@ -107,6 +107,8 @@ Soy **Ingeniero de Software** especializado en la creación de soluciones digita
 
 <div align="center">
   <i>"Transformando ideas complejas en experiencias digitales simples e intuitivas."</i>
-  <br><br>
-  <img src="https://komarev.com/ghpvc/?username=BMACF12&label=Visitas+al+perfil&color=00c4cc&style=flat-square" alt="contador de visitas" />
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=00c4cc,ff00aa,7000ff&height=100&section=footer" width="100%" />
 </div>

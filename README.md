@@ -82,8 +82,12 @@ Soy **Ingeniero de Software** especializado en la creación de soluciones digita
 ### 📊 Estadísticas de GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BMACF12&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BMACF12&layout=compact&theme=tokyonight&hide_border=true" height="150" />
+  <a href="https://github.com/BMACF12">
+    <img src="https://github-readme-stats.vercel.app/api?username=BMACF12&show_icons=true&theme=tokyonight&hide_border=true&locale=es&v=1" height="150" alt="Estadísticas de GitHub" />
+  </a>
+  <a href="https://github.com/BMACF12">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BMACF12&layout=compact&theme=tokyonight&hide_border=true&locale=es&v=1" height="150" alt="Lenguajes más usados" />
+  </a>
 </div>
 
 ---
@@ -93,8 +97,16 @@ Soy **Ingeniero de Software** especializado en la creación de soluciones digita
   <a href="mailto:brianf13@outlook.es">
     <img src="https://img.shields.io/badge/brianf13@outlook.es-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/brian-flores">
+  <a href="https://www.linkedin.com/in/brian-flores-308189322">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 <p>📍 <b>Ubicación:</b> Quito - Calderón, Ecuador</p>
+
+<br>
+
+<div align="center">
+  <i>"Transformando ideas complejas en experiencias digitales simples e intuitivas."</i>
+  <br><br>
+  <img src="https://komarev.com/ghpvc/?username=BMACF12&label=Visitas+al+perfil&color=00c4cc&style=flat-square" alt="contador de visitas" />
+</div>
